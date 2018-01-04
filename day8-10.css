@@ -1,0 +1,12 @@
+h1 {
+    color: black; background-clip: border-box; border-color: aqua; font-family: sans-serif;
+}
+h2 {
+  color: red; font-family: sans-serif; font-style: italic;
+}
+h3 {
+    color: blue; font-family: sans-serif; text-underline: red; text-decoration: underline;
+}
+img {
+    size: 200px; border-style: groove;
+}
