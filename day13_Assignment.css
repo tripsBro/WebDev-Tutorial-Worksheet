@@ -1,0 +1,25 @@
+#screen {
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: #999999;
+}
+
+#center {
+    background-color: darkolivegreen;
+    margin-left: 100px;
+    text-align: justify;
+    ;
+}
+
+h1 {
+    alignment: center;
+    text-align: center;
+    font-family: "Times New Roman", sans-serif;
+    color: orangered;
+
+}
+h4 {
+    text-align: right;
+    font-family: "Century Schoolbook L",sans-serif;
+    color: darkred;
+}
