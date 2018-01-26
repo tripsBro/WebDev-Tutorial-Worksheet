@@ -1,0 +1,22 @@
+.inline {
+
+    list-style: none;
+    display: inline;
+    padding-right: 20px;
+    text-decoration: none;
+}
+
+.inline a:hover{
+    text-decoration: underline;
+    color: darkorchid;
+}
+label:hover {
+    text-decoration: underline;
+    color: darkorchid;
+}
+textarea {
+    width: 20%;
+    height: 10%;
+}
+
+
